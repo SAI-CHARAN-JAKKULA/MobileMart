@@ -1,0 +1,38 @@
+
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+#img1{
+	text-align: center;
+}
+
+#back-btn{
+	text-align: center;
+}
+
+.btn btn-default{
+	background-color: #D3D3D3;
+}
+
+.container{
+	padding-top: 30px;
+}
+.container2{
+	padding-bottom: 30px;
+}
+
+.btn-1{
+	margin: 5px auto;
+}
+
+.str{
+	color: yellow;
+}
+.page-footer 
+{
+	background: #131A22;
+	color: white;
+}
